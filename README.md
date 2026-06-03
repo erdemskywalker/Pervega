@@ -1,4 +1,4 @@
-<h1 align="center">🚀 Tuebtu Framework</h1>
+<h1 align="center">🚀 Pervega Framework</h1>
 
 <p align="center">
   Hafif, hızlı ve eğlenceli bir PHP mikro-framework'ü!<br>
@@ -8,18 +8,18 @@
 <p align="center">
   <img src="https://img.shields.io/badge/build-passing-brightgreen?style=flat-square">
   <img src="https://img.shields.io/badge/PHP-%3E=8.0-blue?style=flat-square">
-  <img src="https://img.shields.io/github/stars/erdemskywalker/Tuebtu?style=flat-square">
+  <img src="https://img.shields.io/github/stars/erdemskywalker/Pervega?style=flat-square">
 </p>
 
 ---
 
-## 🎯 Neden Tuebtu?
+## 🎯 Neden Pervega?
 
 💡 **Laravel'e geçmeden önce bir şeyleri anlamak mı istiyorsun?**  
 💡 **Kendi framework'ünü kullanmanın havasına girmek mi istiyorsun?**  
 💡 **Sade, modüler ve “ben yaptım” diyebileceğin bir yapı mı arıyorsun?**
 
-O zaman doğru yerdesin. Tuebtu; kendi yazdığım, temel yapı taşlarını barındıran mini bir PHP framework'tür. Hafif, sade ve geliştirilebilir.
+O zaman doğru yerdesin. Pervega; kendi yazdığım, temel yapı taşlarını barındıran mini bir PHP framework'tür. Hafif, sade ve geliştirilebilir.
 
 ---
 
@@ -35,8 +35,8 @@ O zaman doğru yerdesin. Tuebtu; kendi yazdığım, temel yapı taşlarını bar
 ## ⚙️ Kurulum
 
 ```bash
-git clone https://github.com/erdemskywalker/Tuebtu.git
-cd Tuebtu
+git clone https://github.com/erdemskywalker/Pervega.git
+cd Pervega
 composer install
 ```
 
