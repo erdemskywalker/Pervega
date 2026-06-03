@@ -8,7 +8,7 @@ code = """
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Tueb</title>
+    <title>Pervega</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
     <script src="https://code.jquery.com/jquery-3.7.1.js" integrity="sha256-eKhayi8LEQwp4NKxN+CfCh+3qOVUtJn3QNZ0TciWLP4=" crossorigin="anonymous"></script>
@@ -57,7 +57,7 @@ code = """
 <body>
     <section>
         <h1>hiii, I am a blank page (:</h1>
-        <h1 class="hood">TUEB FRAMEWORK</h1>
+        <h1 class="hood">Pervega FRAMEWORK</h1>
         <div class="" id="a">
             <button #click('https://github.com/erdemskywalker') type="button" id="Btn1" class="btn btn-dark">GIT HUB</button>
         </div>
@@ -104,7 +104,7 @@ def newpage():
 if __name__ == "__main__":
     args = sys.argv
     if len(args) < 2:
-        print("Kullanım: python tueb.py <run|newpage|newmodel>")
+        print("Kullanım: python pervega.py <run|newpage|newmodel>")
         sys.exit(1)
 
     command = args[1]
